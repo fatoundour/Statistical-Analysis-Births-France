@@ -1,4 +1,4 @@
-# Analyse statistique des naissances en France — Test du χ²
+# Analyse statistique des naissances en France - Test du χ²
 
 **Projet universitaire · Python · Statistiques inférentielles · Données INSEE (2022)**
 
